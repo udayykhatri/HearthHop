@@ -1,3 +1,5 @@
+
+
 HearthHop  is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
 Live Project
@@ -37,7 +39,7 @@ Create a .env file in the root directory. Add your MongoDB connection string, Cl
 Run the application:
 
 npm start
-Visit http://localhost:3000 in your browser to explore Wanderlust locally.
+Visit http://localhost:8080 in your browser to explore Wanderlust locally.
 
 Contribution
 Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
