@@ -130,7 +130,7 @@ The project follows the MVC architecture and demonstrates full-stack development
 
 ### Clone Repository
 
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/udayykhatri/HearthHop
 
 ### Install Dependencies
 
